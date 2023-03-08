@@ -1,2 +1,10 @@
-*.class
-*.log
+target/
+publish-maven/
+config/
+.idea/
+.bsp
+.bloop
+project/.bloop
+.metals
+project/metals.sbt
+metals.sbt
